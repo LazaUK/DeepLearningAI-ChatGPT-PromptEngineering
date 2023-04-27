@@ -1,2 +1,6 @@
-# DeepLearningAI-ChatGPT
-Practical Jupyter notebooks from Andrew Ng and Isa Fulford's "ChatGPT Prompt Engineering for Developers" course on DeepLearning.AI.
+# ChatGPT Prompt Engineering for Developers
+
+Andrew Ng and Isa Fulford's released great course called ["ChatGPT Prompt Engineering for Developers"](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) on DeepLearning.AI site.
+
+I've followed on-screen instructions to re-create their practical Jupyter notebooks:
+1. Guidelines for Prompting
