@@ -7,3 +7,4 @@ I've followed on-screen instructions to re-create their practical Jupyter notebo
 2. Iterative Prompt Development
 3. Summarisimng Prompt Content
 4. Inferring Sentiment and Topics
+5. Transforming (Language Tanslation, Spellcheck, Tone Adjustment, Format Conversion)
