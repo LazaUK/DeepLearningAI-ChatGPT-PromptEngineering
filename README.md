@@ -6,3 +6,4 @@ I've followed on-screen instructions to re-create their practical Jupyter notebo
 1. Guidelines for Prompting
 2. Iterative Prompt Development
 3. Summarisimng prompt content
+4. Inferring sentiment and topics
