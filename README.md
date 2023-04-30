@@ -9,3 +9,4 @@ I've followed on-screen instructions to re-create their practical Jupyter notebo
 4. Inferring Sentiment and Topics
 5. Transforming (Language Tanslation, Spellcheck, Tone Adjustment, Format Conversion)
 6. Expanding (Customised eMails based on Sentiment)
+7. Chatbot
